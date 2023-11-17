@@ -1,4 +1,8 @@
 # Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI
+by Vincent K.M. Cheung (SonyCSL), Lana Okuma (RIKEN), Kazuhisa Shibata (RIKEN), Kosetsu Tsukuda (AIST), Masataka Goto (AIST), Shinichi Furuya (SonyCSL)
+
+Check out our ISMIR 2023 paper [here](https://archives.ismir.net/ismir2023/paper/000022.pdf)
+
 
 <code>*data.npy</code> files contain numpy arrays of BOLD activations in the respective areas as subjects listen to each instrumental source
 
