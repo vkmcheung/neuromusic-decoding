@@ -16,3 +16,6 @@ Check out our ISMIR 2023 paper [here](https://archives.ismir.net/ismir2023/paper
 - Python 3.9
 - Tensorflow/Keras 2.10+ (?)
 - sklearn 1.2+
+
+## Supplementary Information:
+coming soon
